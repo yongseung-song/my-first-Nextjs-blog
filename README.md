@@ -1,5 +1,6 @@
 # my first Next.js app
 This repository follows [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app) from Next.js, using a starter template for [Learn Next.js](https://nextjs.org/learn).
+
 ## What I've finished so far
 1. ~~Create a Next.js App~~
 	1. ~~Setup~~
@@ -10,3 +11,14 @@ This repository follows [Create a Next.js App](https://nextjs.org/learn/basics/c
 4. Dynamic Routes
 5. API Routes
 6. Deploying Your Next.js App
+
+## Prerequisites
+- Latest version of Next.js
+- React v18.2.0
+- React-DOM v18.2.0
+
+## Installation
+
+
+## Usage
+
