@@ -6,9 +6,9 @@ This repository follows [Create a Next.js App](https://nextjs.org/learn/basics/c
 	1. ~~Setup~~
 	2. ~~Welcome to Next.js~~
 	3. ~~Editing the Page~~
-2. Navigate Between Pages <- Working on this chapter!
-3. Pre-rendering and Data Fetching
-4. Dynamic Routes
+2. ~~Navigate Between Pages ~~
+3. ~~Pre-rendering and Data Fetching~~
+4. Dynamic Routes<- Working on this chapter!
 5. API Routes
 6. Deploying Your Next.js App
 
