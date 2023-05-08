@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "next build && next export && gh-pages -d out"
   },
   "dependencies": {
     "date-fns": "^2.30.0",
@@ -13,5 +14,8 @@
     "react-dom": "18.2.0",
     "remark": "^14.0.2",
     "remark-html": "^15.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
